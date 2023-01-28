@@ -1,0 +1,15 @@
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\bin\Debug\net6.0\CarnivalServices.deps.json
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\bin\Debug\net6.0\CarnivalServices.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\bin\Debug\net6.0\CarnivalServices.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\bin\Debug\net6.0\CarnivalRepository.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\bin\Debug\net6.0\CarnivalRepository.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.csproj.AssemblyReference.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.AssemblyInfoInputs.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.AssemblyInfo.cs
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.csproj.CoreCompileInputs.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.csproj.CopyComplete
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\refint\CarnivalServices.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\CarnivalServices.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalServices\obj\Debug\net6.0\ref\CarnivalServices.dll

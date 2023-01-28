@@ -30,3 +30,11 @@ C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\obj\Debug\n
 C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\obj\Debug\net6.0\SportsCarnivalWeb.pdb
 C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\obj\Debug\net6.0\SportsCarnivalWeb.genruntimeconfig.cache
 C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\obj\Debug\net6.0\ref\SportsCarnivalWeb.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\CarnivalRepository.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\CarnivalServices.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\CarnivalServices.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\SportsCarnivalWeb\bin\Debug\net6.0\CarnivalRepository.pdb

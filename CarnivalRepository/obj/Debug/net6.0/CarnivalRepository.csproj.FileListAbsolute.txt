@@ -1,0 +1,12 @@
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\bin\Debug\net6.0\CarnivalRepository.deps.json
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\bin\Debug\net6.0\CarnivalRepository.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\bin\Debug\net6.0\CarnivalRepository.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.csproj.AssemblyReference.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.AssemblyInfoInputs.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.AssemblyInfo.cs
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.csproj.CoreCompileInputs.cache
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\refint\CarnivalRepository.dll
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\CarnivalRepository.pdb
+C:\Users\manish.upreti\source\repos\SportsCarnival\CarnivalRepository\obj\Debug\net6.0\ref\CarnivalRepository.dll
